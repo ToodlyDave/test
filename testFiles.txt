@@ -1,0 +1,4 @@
+hi there
+hey there
+
+this should create a conflict... we changed this in the remote main
